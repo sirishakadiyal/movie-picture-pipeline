@@ -4,7 +4,7 @@
 
 Public GitHub Repository:
 
-https://github.com/rthokala2/movie-picture-pipeline
+https://github.com/sirishakadiyal/movie-picture-pipeline/
 
 ## CI/CD Workflows
 
